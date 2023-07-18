@@ -46,7 +46,7 @@
 
 <ul>
   <li>brModelo (já utilizado no projeto conceitual) para o modelo lógico</li>
-  <li>SQL Power Architect para o modelo físico. Para instalar o software, <a href="https://bestofbi.com/architect-download/" target="_blank">clique aqui</a>. Para maiores informações sobre esta ferramenta, acompanhe este <a href="https://www.alura.com.br/artigos/engenharia-reversa-power-architect" target="_blank">artigo</a> da Alura sobre o software e engenharia reversa./li>
+  <li>SQL Power Architect para o modelo físico. Para instalar o software, <a href="https://bestofbi.com/architect-download/" target="_blank">clique aqui</a>. Para maiores informações sobre esta ferramenta, acompanhe este <a href="https://www.alura.com.br/artigos/engenharia-reversa-power-architect" target="_blank">artigo</a> da Alura sobre o software e engenharia reversa.</li>
 </ul>
 
 ###
